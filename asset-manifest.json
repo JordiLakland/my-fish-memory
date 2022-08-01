@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/my-fish-memory/static/css/main.073c9b0a.css",
-    "main.js": "/my-fish-memory/static/js/main.620cedd1.js",
+    "main.css": "/my-fish-memory/static/css/main.e6c13ad2.css",
+    "main.js": "/my-fish-memory/static/js/main.2ab548ea.js",
     "static/js/787.4fa0e09b.chunk.js": "/my-fish-memory/static/js/787.4fa0e09b.chunk.js",
-    "static/media/logo.svg": "/my-fish-memory/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/my-fish-memory/index.html",
-    "main.073c9b0a.css.map": "/my-fish-memory/static/css/main.073c9b0a.css.map",
-    "main.620cedd1.js.map": "/my-fish-memory/static/js/main.620cedd1.js.map",
+    "main.e6c13ad2.css.map": "/my-fish-memory/static/css/main.e6c13ad2.css.map",
+    "main.2ab548ea.js.map": "/my-fish-memory/static/js/main.2ab548ea.js.map",
     "787.4fa0e09b.chunk.js.map": "/my-fish-memory/static/js/787.4fa0e09b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.620cedd1.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2ab548ea.js"
   ]
 }
