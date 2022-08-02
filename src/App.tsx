@@ -9,6 +9,9 @@ function App() {
           <li>Create Sidebar with Sections</li>
           <li>Create Pages</li>
           <li>Create template code Block and explanation</li>
+          <li>
+            <a href='https://github.com/CodeFocusChannel/react-sidebar'>Sidebar theme</a>
+          </li>
         </ul>
       </header>
     </div>
