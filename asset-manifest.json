@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/my-fish-memory/static/css/main.cb4e36b8.css",
-    "main.js": "/my-fish-memory/static/js/main.1d61d191.js",
+    "main.js": "/my-fish-memory/static/js/main.af0207b3.js",
     "static/js/787.4fa0e09b.chunk.js": "/my-fish-memory/static/js/787.4fa0e09b.chunk.js",
     "index.html": "/my-fish-memory/index.html",
     "main.cb4e36b8.css.map": "/my-fish-memory/static/css/main.cb4e36b8.css.map",
-    "main.1d61d191.js.map": "/my-fish-memory/static/js/main.1d61d191.js.map",
+    "main.af0207b3.js.map": "/my-fish-memory/static/js/main.af0207b3.js.map",
     "787.4fa0e09b.chunk.js.map": "/my-fish-memory/static/js/787.4fa0e09b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb4e36b8.css",
-    "static/js/main.1d61d191.js"
+    "static/js/main.af0207b3.js"
   ]
 }
