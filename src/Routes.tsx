@@ -6,22 +6,12 @@ import ArraysPage from './pages/Arrays';
 export default function AppRoutes(): JSX.Element {
     return (
         <Routes>
-            <Route 
-                path='/' 
-                element={<HomePage />} 
-            />
-            <Route 
-                path='react' 
-                element={<ReactPage />} 
-            />
-            <Route 
-                path='arrays' 
-                element={<ArraysPage />} 
-            />
-            <Route
-                path="*"
-                element={<Navigate to="/" replace />}
-            />
+            <Route path="my-fish-memory" >
+                <Route index element={<HomePage />} />
+                <Route path="react" element={<ReactPage />} />
+                <Route path="arrays" element={<ArraysPage />} />
+            </Route>
+            <Route path="*" element={<Navigate to="my-fish-memory" replace />} />
         </Routes>
     )
 }
